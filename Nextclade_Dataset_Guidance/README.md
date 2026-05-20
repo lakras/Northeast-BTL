@@ -34,7 +34,7 @@ This document describes the process of generating a Nextclade dataset for a path
 8. Tree-building software (such as FastTree or IQ-TREE or Geneious)
 9. Plain text editor (such as Notepad or Visual Studio Code)
 10. Microsoft Excel
-11. Download the helper scripts located here: https://github.com/MASPHL-Bioinformatics/NortheastBTL/tree/main/Nextclade_Dataset_Guidance/scripts
+11. Download the helper scripts located here: [https://github.com/MASPHL-Bioinformatics/NortheastBTL/tree/main/Nextclade_Dataset_Guidance/scripts](https://github.com/MASPHL-Bioinformatics/Northeast-BTL/tree/main/Nextclade_Dataset_Guidance/scripts)
 
 ## 1. Introduction to Nextclade
 1. As an example input fasta, download the ten most recent SARS-CoV-2 sequences uploaded to GenBank:
